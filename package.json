@@ -1,0 +1,27 @@
+{
+  "name": "firstnodejsmodulelog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshkumararora/firstnodejsmodulelog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshkumararora/firstnodejsmodulelog/issues"
+  },
+  "homepage": "https://github.com/yogeshkumararora/firstnodejsmodulelog#readme",
+  "dependencies": {
+    "ansi-styles": "^3.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
